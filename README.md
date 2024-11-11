@@ -1,1 +1,2 @@
-# prueba-wordpress
+He realizado una prueba haciendo modificaciones en el diseño principalmente pero haciendo configuraciones basicas de rendimiento como compresion de imagenes.
+Con mas tiempo podria a llegar a mejorar el SEO y el rendimiento mediante plugins.
